@@ -1,15 +1,15 @@
 # final_project
 Group 00 Final Project
  
-#Predicting the sales and demand with Walmart Data
+# Predicting the sales and demand with Walmart Data
 
 ## Presentation
 
 
-**Objective**
+**Objective:**
 Use a supervised machine learning model to predict the sales and demand accurately. 
 
-**Hypothesis**
+**Hypothesis:**
 Can a supervised machine learning model predict unforseen demands for the business? 
 
 **Reason why we selected this topic:**
