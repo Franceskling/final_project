@@ -6,7 +6,7 @@
 -- two dots ('..' - without quotes).
 
 CREATE TABLE "Weekly_Sales" (
-    "index_id" int   NOT NULL,
+    "index_id" VARCHAR   NOT NULL,
     "Rev_Date" date   NOT NULL,
     "Date" date   NOT NULL,
     "Store" int   NOT NULL,
@@ -15,7 +15,7 @@ CREATE TABLE "Weekly_Sales" (
     "Temperature" FLOAT   NOT NULL,
     "Fuel_Price" FLOAT   NOT NULL,
     "CPI" FLOAT   NOT NULL,
-    "Unemployement" FLOAT   NOT NULL,
+    "Unemployment" FLOAT   NOT NULL,
     "Month" int   NOT NULL,
     "Year" int   NOT NULL,
     "Week" int   NOT NULL,
@@ -34,13 +34,13 @@ CREATE TABLE "Holidays" (
 );
 
 CREATE TABLE "Features" (
-    "index_id" int   NOT NULL,
+    "index_id" VARCHAR   NOT NULL,
     "Date" date   NOT NULL,
     "Store" int   NOT NULL,
     "Temperature" FLOAT   NOT NULL,
     "Fuel_Price" FLOAT   NOT NULL,
     "CPI" FLOAT NOT NULL,
-    "Unemployement" FLOAT  NOT NULL,
+    "Unemployment" FLOAT  NOT NULL,
     CONSTRAINT "pk_Features" PRIMARY KEY (
         "index_id"
      )
