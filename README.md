@@ -45,8 +45,11 @@ Link to source: https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-d
 
 **Project Team and Role Responsibilities** (First Segment)
 Archana Rohilla - Machine Learning, Import data from RDS DB Walmart sales into Jupyter notebook
+
 Vick Anand - ETL analysis, build schema utilizing ERD QuickDB, Postgress and connection to AWS RDS DB
+
 Tri Luu - Presentation and communication plan (readme.md)
+
 Frances Klingenberger - created github master branch and tracked communications 
 
 **Process Overview and Technology used**
