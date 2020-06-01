@@ -55,7 +55,6 @@ Frances Klingenberger - created github master branch and tracked communications
 **Process Overview and Technology used**
 ![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
 
-**Communication Plan**
 
 ![alt text](https://github.com/Franceskling/final_project/blob/master/Communication%20Plan.png)
 
