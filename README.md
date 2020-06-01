@@ -54,7 +54,9 @@ Frances Klingenberger - created github master branch
 ## ETL
 
 **Extract:** Extracted csv file from Kaggle.com 
+
 **Transform:** We created an ETL function to revise and clean columns
+
 **Load:** Loaded data into Postgress from Jupyter Notebook
 
 Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_Wkly_Sales_ETL.ipynb
