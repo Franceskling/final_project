@@ -57,18 +57,24 @@ Frances Klingenberger - created github master branch
 **Transform:** We created an ETL function to revise and clean columns
 **Load:** Loaded data into Postgress from Jupyter Notebook
 
-Source: 
+Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_Wkly_Sales_ETL.ipynb
 
 ## Machine Learning Model:
 
 **Model Type:**
-
+Supervised machine learning - Linear Regression (Forecasting using LSTM, Arima, XGBoost)
 **Why we are using this model:**
-
+To predict Walmart sales for 45 stores in aggreate utilizing features like temperature, holiday, CPI, fuel price and unemployment data
 **How are we training our model:**
-
+We use linear regression to fit the data set, scale and transform the data to predict sales data. After that, we compare the test data actual with the predicted value. 
 **What is the model's accuracy?**
-
+Currently, accuracy of the linear regression is 14%. Next week, we'll be using LSTM, Arima, XGBoost to increase the accuracy score.
 **How does this model work?**
+We will use 3 metrics to compare the effectiveness of machine learning model. The 3 metrics are: RMSE, MAE, and R-square score. 
+
+Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_4.ipynb
 
 ## Database
+Develop database schema utilizing ERD DB below:
+
+![alt text](https://github.com/Franceskling/final_project/blob/master/databsae_QBD.PNG)
