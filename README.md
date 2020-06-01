@@ -1,7 +1,7 @@
 # final_project
 Group 00 Final Project
  
-#Predicting the sales and demand with Walmart Data
+# Predicting the sales and demand with Walmart Data
 
 
 ## Presentation
@@ -40,7 +40,7 @@ Link to source: https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-d
 Archana Rohilla - Machine Learning, Import data from RDS DB Walmart sales into Jupyter notebook
 Vick Anand - ETL analysis, build schema utilizing ERD QuickDB, Postgress and connection to AWS RDS DB
 Tri Luu - Presentation and communication plan (readme.md)
-Frances Klingenberger - created github master branch
+Frances Klingenberger - created github master branch and tracked communications 
 
 **Process Overview and Technology used**
 ![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
