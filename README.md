@@ -1,13 +1,20 @@
 # final_project
 Group 00 Final Project
  
-# Predicting the sales and demand with Walmart Data
+
 
 
 ## Presentation
 
+**Selected topic**
 
-**Purpose and Hypothesis**
+Predicting the sales with Walmart Data
+
+**Question we hope to answer**
+
+Can a supervised machine learning model predict unforseen sales for the business?
+
+**Reason why we selected this topic**
 
 Many businesses are facing a challenge due to the uncertain demands and runs out of stock sometimes, which make both the suppliers and customers upset, the store couldn't sell their products and the people do not want to buy such waste things. An automatic prediction will not only help the businesses gain more profits but also the customers to buy products that satisfies them.  
 
