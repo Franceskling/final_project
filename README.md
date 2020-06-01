@@ -3,28 +3,26 @@ Group 00 Final Project
  
 #Predicting the sales and demand with Walmart Data
 
+
 ## Presentation
 
 
-**Objective**
-Use a supervised machine learning model to predict the sales accurately. 
+**Purpose and Hypothesis**
 
-**Hypothesis**
-Can a supervised machine learning model predict unforseen sales for the business? 
+Many businesses are facing a challenge due to the uncertain demands and runs out of stock sometimes, which make both the suppliers and customers upset, the store couldn't sell their products and the people do not want to buy such waste things. An automatic prediction will not only help the businesses gain more profits but also the customers to buy products that satisfies them.  
 
-**Reason why we selected this topic:**
+Our purpose is to ultilize supervised machine learning model and neural network to predict the sales accurately. 
 
-Many businesses are facing a challenge due to the uncertain demands and runs out of stock sometimes, which make both the suppliers and customers upset, the store couldn't sell their products and the people do not want to buy such waste things. An automatic prediction will not only help
-the businesses gain more profits but also the customers to buy products that satisfies them.  
+**Background:**
 
 Walmart runs several promotional markdown events through the year. These markdowns precede prominent holidays, the four largest of all,
-which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including thse holidays are weighted five times higher in the evaluation than non-holiday weeks.
-Historical sales data for Walmart stores located in different regions are available.
+which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including thse holidays are weighted five times higher in the evaluation than non-holiday weeks. Historical sales data for Walmart stores located in different regions are available.
 
-If we are successful, with the demand and supply relationship, we should be able to apply our model to other sales data and make other types of predictions, such as stock market. This will eventually increase the quality of money flow in economy. 
+If we are successful, we should be able to apply our model to predict overall sales for 45 Walmart stores in aggreate.
 
 **Description of data source:**
-This is the historical data that covers sales from 2010-02-05 to 2012-11-01. It has all the information of an ideal ML algorithm in predict demand should have which includes conditions like CPI, Unemployment Index, Holiday Flag, etc.
+This is the historical weekly sales data for 45 Walmart stores in aggreate from period 2010-02-05 to 2012-11-01.
+
 In total, there are 8 different fields, which is listed below:
 1. Store - the store number
 2. Date - the week of sales
@@ -34,6 +32,8 @@ In total, there are 8 different fields, which is listed below:
 6. Fuel_Price - Cost of fuel in the region
 7. CPI - Prevailing consumer price index
 8. Unemployment - Prevailing unemployment rate
+
+Link to source: https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-data
 ## Git hub
 
 **Communication Plan**
