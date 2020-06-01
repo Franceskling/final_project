@@ -44,6 +44,7 @@ Frances Klingenberger - created github master branch
 
 **Process Overview and Technology used**
 ![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
+
 **Communication Plan**
 
 **Technology**
