@@ -47,6 +47,9 @@ Frances Klingenberger - created github master branch
 
 **Communication Plan**
 
+![alt text](https://github.com/Franceskling/final_project/blob/master/Communication%20Plan.png)
+
+
 **Technology**
 
 -A supervised machine learning 
