@@ -50,21 +50,14 @@ Frances Klingenberger - created github master branch
 ![alt text](https://github.com/Franceskling/final_project/blob/master/Communication%20Plan.png)
 
 
-**Technology**
-
--A supervised machine learning 
-
--Time series machine learning
-
--Database Storage
-
-**Dashboard**
 
 ## ETL
 
-**Extract:**
-**Transform:**
-**Load:**
+**Extract:** Extracted csv file from Kaggle.com 
+**Transform:** We created an ETL function to revise and clean columns
+**Load:** Loaded data into Postgress from Jupyter Notebook
+
+Source: 
 
 ## Machine Learning Model:
 
