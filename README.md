@@ -53,6 +53,16 @@ Tri Luu - Presentation and communication plan (readme.md)
 
 Frances Klingenberger - created github master branch and tracked communications 
 
+# Project Team and Role Responsibilities (Second Segment)
+
+Archana Rohilla - Expanded Machine Learning Model
+
+Vick Anand - Created Dashboard with Tri
+
+Tri Luu - Created Dashboard with Vick 
+
+Frances Klingenberger - Manage Github and expanded Presentation 
+
 # Process Overview and Technology used
 ![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
 
@@ -72,6 +82,8 @@ Frances Klingenberger - created github master branch and tracked communications
 Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_Wkly_Sales_ETL.ipynb
 
 ## Machine Learning Model:
+
+*See full explaination of ML described in Jupyter Notebook file 
 
 **Model Type:**
 Supervised machine learning - Linear Regression (Forecasting using LSTM, Arima, XGBoost)
