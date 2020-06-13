@@ -4,9 +4,9 @@ Link to the sample Dashboard: https://docs.google.com/presentation/d/12_8A4pYGRN
 Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4oruxI0mastjCT07H96pQdgFnJR6P4/edit#slide=id.g88d4106874_0_14 
  
 
-## Project Outline
+# Project Outline
 
-# Project Team and Role Responsibilities (First Segment)
+## Project Team and Role Responsibilities (First Segment)
 
 Archana Rohilla - Machine Learning, Import data from RDS DB Walmart sales into Jupyter notebook
 
@@ -16,7 +16,7 @@ Tri Luu - Presentation and communication plan (readme.md)
 
 Frances Klingenberger - created github master branch and tracked communications 
 
-# Project Team and Role Responsibilities (Second Segment)
+## Project Team and Role Responsibilities (Second Segment)
 
 Archana Rohilla - Expanded Machine Learning Model
 
@@ -26,7 +26,7 @@ Tri Luu - Created Dashboard with Vick
 
 Frances Klingenberger - Manage Github and expanded Presentation 
 
-# Project Team and Role Responsibilities (Third Segment)
+## Project Team and Role Responsibilities (Third Segment)
 
 Archana Rohilla - Machine Learning 
 
@@ -44,7 +44,7 @@ Frances Klingenberger - GitHub and Presentation
 
 
 
-## ETL
+# ETL
 
 **Extract:** Extracted csv file from Kaggle.com 
 
@@ -54,7 +54,7 @@ Frances Klingenberger - GitHub and Presentation
 
 Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_Wkly_Sales_ETL.ipynb
 
-## Machine Learning Model:
+# Machine Learning Model:
 
 *See full explaination of ML described in Jupyter Notebook file 
 
@@ -75,7 +75,7 @@ We will use 3 metrics to compare the effectiveness of machine learning model. Th
 
 Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_4.ipynb
 
-## Database
+# Database
 Develop database schema utilizing ERD DB below:
 
 Sources: https://github.com/Franceskling/final_project/blob/ETL_Analysis/QuickDBD-WMT_Weekly_Sales.sql
