@@ -41,7 +41,7 @@ In total, there are 8 different fields, which is listed below:
 8. Unemployment - Prevailing unemployment rate
 
 Link to source: https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-data
-## Git hub
+## Project Outline
 
 # Project Team and Role Responsibilities (First Segment)
 
