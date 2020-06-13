@@ -67,7 +67,7 @@ Frances Klingenberger - Manage Github and expanded Presentation
 ![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
 
 
-![alt text](https://github.com/Franceskling/final_project/blob/master/Communication%20Plan.png)
+
 
 
 
