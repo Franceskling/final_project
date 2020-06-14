@@ -26,15 +26,6 @@ Tri Luu - Created Dashboard with Vick
 
 Frances Klingenberger - Manage Github and expanded Presentation 
 
-## Project Team and Role Responsibilities (Third Segment)
-
-Archana Rohilla - Expanded and improved Machine Learning Model, Calculation of Final Metrics
-
-Vick Anand - Created Dashboard with Tri, worked on Machine Learning with Archana
-
-Tri Luu - Created Dashboard with Vick 
-
-Frances Klingenberger - GitHub and Presentation
 
 # Process Overview and Technology used
 ![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
