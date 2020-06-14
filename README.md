@@ -89,7 +89,7 @@ Currently, accuracy of the linear regression is 14%. Next week, we'll be using L
 **How does this model work?**
 We will use 3 metrics to compare the effectiveness of machine learning model. The 3 metrics are: RMSE, MAE, and R-square score. 
 
-Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_4.ipynb
+Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
 
 ## Database
 Develop database schema utilizing ERD DB below:
