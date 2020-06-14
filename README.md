@@ -32,7 +32,7 @@ Slack- used for team updates, sharing resources, and scheduling zoom chats
 
 Zoom- used for team meetings 2-3 times a week
 
-Class time- Tuesdays and Thursdays, used for catching up on individual segments, planning out the responsibilites, collabortating on segments, and working with TAs for extra help
+Class Time- Tuesdays and Thursdays, used for catching up on individual segments, planning out the responsibilites, collabortating on segments, and working with TAs for extra help
 
 Office Hours- used when extra help is needed with TAs
 
