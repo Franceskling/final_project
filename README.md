@@ -8,7 +8,7 @@ Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4
 
 ## Project Team and Role Responsibilities (First Segment)
 
-Archana Rohilla - Created Machine Learning Model, Imported data from RDS Database "Walmart sales" into Jupyter Notebook 
+Archana Rohilla - Created preliminary Machine Learning Model, Imported data from RDS Database "Walmart sales" into Jupyter Notebook 
 
 Vick Anand - ETL analysis, build schema utilizing ERD QuickDB, Postgress and connection to AWS RDS DB
 
