@@ -8,7 +8,7 @@ Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4
 
 ## Project Team and Role Responsibilities (First Segment)
 
-Archana Rohilla - Machine Learning, Import data from RDS DB Walmart sales into Jupyter notebook
+Archana Rohilla - Created Machine Learning Model, Imported data from RDS Database "Walmart sales" into Jupyter Notebook 
 
 Vick Anand - ETL analysis, build schema utilizing ERD QuickDB, Postgress and connection to AWS RDS DB
 
@@ -18,7 +18,7 @@ Frances Klingenberger - created github master branch and tracked communications
 
 ## Project Team and Role Responsibilities (Second Segment)
 
-Archana Rohilla - Expanded Machine Learning Model
+Archana Rohilla - Imported data from RDS Database "Walmart sales" into Jupyter notebook, Expanded Machine Learning Model
 
 Vick Anand - Created Dashboard with Tri
 
@@ -28,7 +28,7 @@ Frances Klingenberger - Manage Github and expanded Presentation
 
 ## Project Team and Role Responsibilities (Third Segment)
 
-Archana Rohilla - Machine Learning 
+Archana Rohilla - Expanded and improved Machine Learning Model, Calculation of Final Metrics
 
 Vick Anand - Created Dashboard with Tri, worked on Machine Learning with Archana
 
@@ -56,7 +56,7 @@ Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_
 
 # Machine Learning Model:
 
-*See full explaination of ML described in Jupyter Notebook file 
+*See full Machine Learning code in Jupyter Notebook file for the calculated metrics (RMSE, MAE, R-square score)
 
 **Model Type:**
 Supervised machine learning - Linear Regression (Forecasting using LSTM, Arima, XGBoost)
