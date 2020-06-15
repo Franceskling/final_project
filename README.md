@@ -56,7 +56,7 @@ Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_
 
 # Machine Learning Model:
 
-*See full Machine Learning code in Jupyter Notebook file for the calculated metrics (RMSE, MAE, R-square score)
+*See full Machine Learning code and further description in Jupyter Notebook file for the calculated metrics (RMSE, MAE, R-square score)
 
 **Model Type:**
 Supervised machine learning - Linear Regression (Forecasting using LSTM, Arima, XGBoost)
