@@ -4,7 +4,7 @@ Link to the sample Dashboard: https://docs.google.com/presentation/d/12_8A4pYGRN
 Updated 6/15/2020: add more notes and annotations for the slides
 
 Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4oruxI0mastjCT07H96pQdgFnJR6P4/edit#slide=id.g88d4106874_0_14 
- 
+
 # Data Selection:
 The data was taken from Kaggle. The link to source is: https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-data
 
@@ -14,7 +14,8 @@ data was then stored in the postgres as 'Weekly_Sales', 'Features' and 'Holidays
 Amazon Web Services(AWS) so that it can be easily imported to some other remote file. 
 
 # Importing the Data in the jupyter notebook:
-Here, the data was imported from the RDS database of the AWS.
+The data was imported from the RDS database of the AWS.
+Link to the machine learning code: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
 
 # Data Preprocessing:
 - The cleaned data was then divided into the input(X) and the target/output(y) features. Also, the non-relevant columns were dropped from the data.
@@ -27,7 +28,7 @@ Here, the data was imported from the RDS database of the AWS.
   pre-processing to handle highly varying magnitudes or values or units. If feature scaling is not done, then a machine learning algorithm tends 
   to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
 
-# Metrics:
+# Performance Metrics:
 
 # Root Mean Squared Error:
 Root Mean Square Error (RMSE) is the standard deviation of the residuals (prediction errors). Residuals are a measure of how far from the regression line 
@@ -59,6 +60,7 @@ implemented in Store-1 data.
 
 # Linear Regression Model using "lag":
 The link to the file is: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/sales_forecast_store1.ipynb
+
 - Results: 
 Mean Absolute Error: 29271.61936361866
 Mean Squared Error: 1494186688.7343
@@ -72,6 +74,9 @@ A random forest is an ensemble model that consists of many decision trees. Predi
 
 - Since R-squared is 95%, it means that this Random Forest Regression Model is good in prediction as compared to the Linear Regression Model.
 
+# Data Transformation:
+The predicted data is exported or saved into a simpler format for storage and future use, such as a CSV, spreadsheet, or database file.
 
-Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
+
+
 
