@@ -96,3 +96,9 @@ RDS DB endpoint: walmartsales.ctixdh2hiprk.us-east-2.rds.amazonaws.com
 
 # Dashboard
 
+Storyboard sample:
+
+![alt_text](https://github.com/Franceskling/final_project/blob/master/Resources/Dashboard.png)
+
+
+
