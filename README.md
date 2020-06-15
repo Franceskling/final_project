@@ -1,68 +1,11 @@
-# Sales Prediction with Walmart Data
 
-**Question we hope to answer**
+Link to the sample Dashboard: https://docs.google.com/presentation/d/12_8A4pYGRNB-9pPr1TDLrR-mtxitNueUULPjYNkARqo/edit?usp=sharing
 
-Can a machine learning model predict future sales for the business?
+Updated 6/15/2020: add more notes and annotations for the slides
 
-**Reason why we selected this topic**
-
-Many businesses are facing a challenge due to the uncertain demands and runs out of stock sometimes, which make both the suppliers and customers upset, the store couldn't sell their products and the people do not want to buy such waste things. An automatic prediction will not only help the businesses gain more profits but also the customers to buy products that satisfies them.  
-
-Our purpose is to ultilize supervised machine learning model and neural network to predict the sales accurately. 
-
-**Background:**
-Walmart runs several promotional markdown events through the year. These markdowns precede prominent holidays, the four largest of all,
-which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including thse holidays are weighted five times higher in the evaluation than non-holiday weeks. Historical sales data for Walmart stores located in different regions are available.
-
-If we are successful, we should be able to apply our model to predict overall sales for 45 Walmart stores in total.
-
-**Description of data source:**
-
-This is the historical weekly sales data for 45 Walmart stores in aggreate from period 2010-02-05 to 2012-11-01.
-
-In total, there are 8 different fields, which is listed below:
-1. Store - the store number
-2. Date - the week of sales
-3. Weekly_Sales - sales for the given store
-4. Holiday_Flag - whether the week is a special holiday week: 1 - Holiday week; 0 - Non-Holiday week
-5. Temprature - Temperature on the day of sale
-6. Fuel_Price - Cost of fuel in the region
-7. CPI - Prevailing consumer price index
-8. Unemployment - Prevailing unemployment rate
-
-Link to source: https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-data
-
-## Git hub
-
-# Project Team and Role Responsibilities (First Segment)
-
-Archana Rohilla - Machine Learning, Import data from RDS DB Walmart sales into Jupyter notebook
-
-Vick Anand - ETL analysis, build schema utilizing ERD QuickDB, Postgress and connection to AWS RDS DB
-
-Tri Luu - Presentation and communication plan (readme.md)
-
-Frances Klingenberger - created github master branch and tracked communications 
-
-# Process Overview and Technology used
-![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
-
-
-![alt text](https://github.com/Franceskling/final_project/blob/master/Communication%20Plan.png)
-
-
-
-## ETL
-
-**Extract:** Extracted csv file from Kaggle.com 
-
-**Transform:** We created an ETL function to revise and clean columns
-
-**Load:** Loaded data into Postgress from Jupyter Notebook
-
-Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_Wkly_Sales_ETL.ipynb
-
-## Machine Learning Model:
+Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4oruxI0mastjCT07H96pQdgFnJR6P4/edit#slide=id.g88d4106874_0_14 
+ 
+# Machine Learning Model:
 
 **Model Type:**
 Supervised machine learning - Linear Regression (Forecasting using LSTM, Arima, XGBoost)
@@ -78,15 +21,12 @@ Currently, accuracy of the linear regression is 14%. Next week, we'll be using L
 
 **How does this model work?**
 We will use 3 metrics to compare the effectiveness of machine learning model. The 3 metrics are: RMSE, MAE, and R-square score. 
+     
+     RMSE- The square root of the average of squared differences between the predicted values and actual values
+     
+     MAE- The average of the absolute differences between the predicted values and actual vales, all differences have the same weight
+     
+     R-squared score- A measure of best fit that shows how much variation of a dependent variable is explained by the independent     variable 
 
 Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
-
-## Database
-Develop database schema utilizing ERD DB below:
-
-Sources: https://github.com/Franceskling/final_project/blob/ETL_Analysis/QuickDBD-WMT_Weekly_Sales.sql
-
-RDS DB endpoint: walmartsales.ctixdh2hiprk.us-east-2.rds.amazonaws.com
-
-![alt text](https://github.com/Franceskling/final_project/blob/master/databsae_QBD.PNG)
 
