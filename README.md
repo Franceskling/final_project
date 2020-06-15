@@ -1,19 +1,8 @@
-# Sales_prediction
-# final_project
-Group 00 Final Project
- 
-
-
-
-## Presentation
-
-**Selected topic**
-
-Predicting the sales with Walmart Data
+# Sales Prediction with Walmart Data
 
 **Question we hope to answer**
 
-Can a supervised machine learning model predict unforseen sales for the business?
+Can a machine learning model predict future sales for the business?
 
 **Reason why we selected this topic**
 
@@ -22,13 +11,13 @@ Many businesses are facing a challenge due to the uncertain demands and runs out
 Our purpose is to ultilize supervised machine learning model and neural network to predict the sales accurately. 
 
 **Background:**
-
 Walmart runs several promotional markdown events through the year. These markdowns precede prominent holidays, the four largest of all,
 which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including thse holidays are weighted five times higher in the evaluation than non-holiday weeks. Historical sales data for Walmart stores located in different regions are available.
 
-If we are successful, we should be able to apply our model to predict overall sales for 45 Walmart stores in aggreate.
+If we are successful, we should be able to apply our model to predict overall sales for 45 Walmart stores in total.
 
 **Description of data source:**
+
 This is the historical weekly sales data for 45 Walmart stores in aggreate from period 2010-02-05 to 2012-11-01.
 
 In total, there are 8 different fields, which is listed below:
@@ -42,6 +31,7 @@ In total, there are 8 different fields, which is listed below:
 8. Unemployment - Prevailing unemployment rate
 
 Link to source: https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-data
+
 ## Git hub
 
 # Project Team and Role Responsibilities (First Segment)
