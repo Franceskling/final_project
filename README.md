@@ -72,6 +72,11 @@ Currently, accuracy of the linear regression is 14%. Next week, we'll be using L
 
 **How does this model work?**
 We will use 3 metrics to compare the effectiveness of machine learning model. The 3 metrics are: RMSE, MAE, and R-square score. 
+     RMSE- The square root of the average of squared differences between the predicted values and actual values
+     
+     MAE- The average of the absolute differences between the predicted values and actual vales, all differences have the same weight
+     
+     R-squared score- A measure of best fit that shows how much variation of a dependent variable is explained by the independent       variable 
 
 Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
 
