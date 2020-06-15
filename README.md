@@ -27,28 +27,51 @@ Here, the data was imported from the RDS database of the AWS.
   pre-processing to handle highly varying magnitudes or values or units. If feature scaling is not done, then a machine learning algorithm tends 
   to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
 
-# Machine Learning Model:
+# Metrics:
 
-**Model Type:**
-Supervised machine learning - Linear Regression (Forecasting using LSTM, Arima, XGBoost)
+# Root Mean Squared Error:
+Root Mean Square Error (RMSE) is the standard deviation of the residuals (prediction errors). Residuals are a measure of how far from the regression line 
+data points are; RMSE is a measure of how spread out these residuals are. In other words, it tells you how concentrated the data is around the line of best fit.
 
-**Why we are using this model:**
-To predict Walmart sales for 45 stores in aggreate utilizing features like temperature, holiday, CPI, fuel price and unemployment data
+# Mean Absolute Error:
+In statistics, mean absolute error (MAE) is a measure of errors between paired observations expressing the same phenomenon.
 
-**How are we training our model:**
-We use linear regression to fit the data set, scale and transform the data to predict sales data. After that, we compare the test data actual with the predicted value. 
+# R-squared:
+R-squared (R2) is a statistical measure that represents the proportion of the variance for a dependent variable that's explained by an independent variable or 
+variables in a regression model. R-squared is always between 0 and 100%:
+- 0% indicates that the model explains none of the variability of the response data around its mean.
+- 100% indicates that the model explains all the variability of the response data around its mean.
 
-**What is the model's accuracy?**
-Currently, accuracy of the linear regression is 14%. Next week, we'll be using LSTM, Arima, XGBoost to increase the accuracy score.
+# Linear Regression Model:
+Linear regression is a statistical model that is used to predict a continuous dependent variable based on one or more independent variables fitted to the 
+equation of a line. Multiple linear regression builds a linear regression model with two or more independent variables. In this case, 
+the dependent variable(target variable i.e. y) is dependent upon several independent variables(X). A regression model involving multiple variables can be 
+represented as:
+y = b0 + m1b1 + m2b2 + m3b3 + … … mnbn
+This is the equation of a hyperplane.
 
-**How does this model work?**
-We will use 3 metrics to compare the effectiveness of machine learning model. The 3 metrics are: RMSE, MAE, and R-square score. 
-     
-     RMSE- The square root of the average of squared differences between the predicted values and actual values
-     
-     MAE- The average of the absolute differences between the predicted values and actual vales, all differences have the same weight
-     
-     R-squared score- A measure of best fit that shows how much variation of a dependent variable is explained by the independent     variable 
+- Results: Root Mean Squared Error=529802.0649517294, Mean Absolute Error=440285.20259857585, R-squared=0.1447931750333451
+- Since R-squared is only 14%, it means that this Linear Regression Model is not good in prediction and needs some improvement.
+
+This Linear Regression Model can be improved by using the "lag". A "lag" is a fixed amount of passing time; One set of observations in a time series 
+is plotted (lagged) against a second, later set of data. The kth lag is the time period that happened “k” time points before time i. The "lag" has been 
+implemented in Store-1 data. 
+
+# Linear Regression Model using "lag":
+The link to the file is: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/sales_forecast_store1.ipynb
+- Results: 
+Mean Absolute Error: 29271.61936361866
+Mean Squared Error: 1494186688.7343
+Root Mean Squared Error: 38654.711080724686
+The value of root mean squared error is 38654.71, which is slightly greater than 2% of the mean value which is 1.561364e+06. 
+This means that this algorithm is accurate and can make reasonably good predictions.
+
+# Random Forest Regressor Model:
+A random forest is an ensemble model that consists of many decision trees. Predictions are made by averaging the predictions of each decision tree.
+- Results: Root Mean Squared Error=118809.7423062449, Mean Absolute Error=65539.96687047854, R-squared=0.9569921262077471
+
+- Since R-squared is 95%, it means that this Random Forest Regression Model is good in prediction as compared to the Linear Regression Model.
+
 
 Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
 
