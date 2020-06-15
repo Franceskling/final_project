@@ -1,6 +1,8 @@
 
 Link to the sample Dashboard: https://docs.google.com/presentation/d/12_8A4pYGRNB-9pPr1TDLrR-mtxitNueUULPjYNkARqo/edit?usp=sharing
 
+Updated 6/15/2020: add more notes and annotations for the slides
+
 Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4oruxI0mastjCT07H96pQdgFnJR6P4/edit#slide=id.g88d4106874_0_14 
  
 
@@ -91,4 +93,6 @@ Database Connections & Steps: https://github.com/Franceskling/final_project/blob
 RDS DB endpoint: walmartsales.ctixdh2hiprk.us-east-2.rds.amazonaws.com
 
 ![alt text](https://github.com/Franceskling/final_project/blob/master/databsae_QBD.PNG)
+
+# Dashboard
 
