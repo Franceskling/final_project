@@ -5,6 +5,28 @@ Updated 6/15/2020: add more notes and annotations for the slides
 
 Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4oruxI0mastjCT07H96pQdgFnJR6P4/edit#slide=id.g88d4106874_0_14 
  
+# Data Selection:
+The data was taken from Kaggle. The link to source is: https://www.kaggle.com/aditya6196/retail-analysis-with-walmart-data
+
+# Data Cleaning:
+The data was cleaned using an ETL function which was described in the Walmart_Wkly_Sales_ETL.ipynb file of the ETL_Analysis branch. The cleaned 
+data was then stored in the postgres as 'Weekly_Sales', 'Features' and 'Holidays' tables. The data was then stored in the RDS database of the
+Amazon Web Services(AWS) so that it can be easily imported to some other remote file. 
+
+# Importing the Data in the jupyter notebook:
+Here, the data was imported from the RDS database of the AWS.
+
+# Data Preprocessing:
+- The cleaned data was then divided into the input(X) and the target/output(y) features. Also, the non-relevant columns were dropped from the data.
+  All the columns to be used in the model must contain a numerical data type.
+
+- The data needs to be split into the training and testing data-sets before fitting in the StandardScaler instance. This prevents testing data from 
+  influencing the standardization function.
+
+- Scale the Data:Feature Scaling is a technique to standardize the independent features present in the data in a fixed range. It is performed during the data 
+  pre-processing to handle highly varying magnitudes or values or units. If feature scaling is not done, then a machine learning algorithm tends 
+  to weigh greater values, higher and consider smaller values as the lower values, regardless of the unit of the values.
+
 # Machine Learning Model:
 
 **Model Type:**
