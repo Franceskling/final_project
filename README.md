@@ -21,7 +21,7 @@ Link to the machine learning code: https://github.com/Franceskling/final_project
 - The cleaned data was then divided into the input(X) and the target/output(y) features. Also, the non-relevant columns were dropped from the data.
   All the columns to be used in the model must contain a numerical data type.
 
-- The data needs to be split into the training and testing data-sets before fitting in the StandardScaler instance. This prevents testing data from 
+- The data needs to be split into the training and testing data-sets in the ratio of 75-25%, before fitting in the StandardScaler instance. This prevents testing data from 
   influencing the standardization function.
 
 - Scale the Data:Feature Scaling is a technique to standardize the independent features present in the data in a fixed range. It is performed during the data 
