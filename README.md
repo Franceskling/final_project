@@ -39,7 +39,7 @@ Tri Luu - Created Dashboard with Vick
 Frances Klingenberger - Manage Github and expanded Presentation 
 
 # Process Overview and Technology used
-![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
+![alt text](JPGS/ProcessFlow.png)
 
 
 
