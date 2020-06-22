@@ -1,5 +1,6 @@
 Updated 6/22: Link to the draft dashboard is posted, files saved in dashboard branch
 Updated 6/15/2020: add more notes and annotations for the slides
+
 Link to the sample Dashboard: https://docs.google.com/presentation/d/12_8A4pYGRNB-9pPr1TDLrR-mtxitNueUULPjYNkARqo/edit?usp=sharing
 
 Link to Tableau Dashboard: https://public.tableau.com/profile/vick.anand#!/vizhome/Walmart_Sales_ML_Prediction-revised/Dashboard1?publish=yes
