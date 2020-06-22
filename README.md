@@ -1,3 +1,5 @@
+Updated 6/22: Link to the updated dashboard interface is posted here:
+https://public.tableau.com/profile/tri5320#!/vizhome/Walmart_Sales_ML_Prediction-revised_15927881176240/SalesForcasting?publish=yes
 Updated 6/22: Link to the draft dashboard is posted, files saved in dashboard branch
 Updated 6/15/2020: add more notes and annotations for the slides
 
