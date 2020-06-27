@@ -99,7 +99,7 @@ Develop database schema utilizing ERD DB below:
 
 Sources: ETL/QuickDBD-WMT_Weekly_Sales.sql
 
-Database Connections & Steps: https://github.com/Franceskling/final_project/blob/ETL_Analysis/database/Steps%20for%20Database%20%26%20Connections.docx
+Database Connections & Steps: database/Steps for Database & Connections.docx
 
 RDS DB endpoint: walmartsales.ctixdh2hiprk.us-east-2.rds.amazonaws.com
 
