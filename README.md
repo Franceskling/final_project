@@ -1,8 +1,4 @@
 
-Link to Presentation/Dashboard: https://public.tableau.com/shared/NBPGWZXQT?:display_count=y&:origin=viz_share_link
-
- 
-
 # Project Outline
 
 ## Background
@@ -57,7 +53,7 @@ Frances Klingenberger - Manage Github and Finalized Presenatation, Practiced Pre
 
 
 
-# ETL
+## ETL
 
 **Extract:** Extracted csv file from Kaggle.com 
 
@@ -67,7 +63,7 @@ Frances Klingenberger - Manage Github and Finalized Presenatation, Practiced Pre
 
 Source: ETL/Walmart_Wkly_Sales_ETL.ipynb
 
-# Machine Learning Model:
+## Machine Learning Model:
 
 *See full Machine Learning code and further description in Jupyter Notebook file for the calculated metrics (RMSE, MAE, R-square score)
 
@@ -94,7 +90,7 @@ We will use 3 metrics to compare the effectiveness of machine learning model. Th
 
 Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
 
-# Database
+## Database
 Develop database schema utilizing ERD DB below:
 
 Sources: ETL/QuickDBD-WMT_Weekly_Sales.sql
@@ -105,11 +101,16 @@ RDS DB endpoint: walmartsales.ctixdh2hiprk.us-east-2.rds.amazonaws.com
 
 ![alt text](https://github.com/Franceskling/final_project/blob/master/JPGS/databsae_QBD.PNG)
 
-# Dashboard
+## Dashboard
 
 Storyboard sample:
 
 ![alt_text](https://github.com/Franceskling/final_project/blob/master/Resources/Dashboard.png)
+
+## Final Presentation
+
+Link to Presentation/Dashboard: https://public.tableau.com/shared/NBPGWZXQT?:display_count=y&:origin=viz_share_link
+
 
 
 
