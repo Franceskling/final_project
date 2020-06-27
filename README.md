@@ -38,6 +38,7 @@ Tri Luu - Created Dashboard with Vick
 Frances Klingenberger - Manage Github and expanded Presentation 
 
 **Segment 4**
+
 Archana Rohilla - Finalized Machine Learning Model, Practiced Presentation
 
 Vick Anand - Finalized Dashboard and Machine Leanring Model, Practiced Presentation
