@@ -97,7 +97,7 @@ Source: https://github.com/Franceskling/final_project/blob/machine_learning/mach
 # Database
 Develop database schema utilizing ERD DB below:
 
-Sources: https://github.com/Franceskling/final_project/blob/ETL_Analysis/QuickDBD-WMT_Weekly_Sales.sql
+Sources: ETL/QuickDBD-WMT_Weekly_Sales.sql
 
 Database Connections & Steps: https://github.com/Franceskling/final_project/blob/ETL_Analysis/database/Steps%20for%20Database%20%26%20Connections.docx
 
