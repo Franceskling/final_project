@@ -29,11 +29,21 @@ Frances Klingenberger - Manage Github and expanded Presentation
 
 Archana Rohilla - Expanded Machine Learning Model
 
-Vick Anand - Created Dashboard with Tri
+Vick Anand - Created Dashboard with Tri and worked on Machine Learning Model with Archana
 
 Tri Luu - Created Dashboard with Vick 
 
 Frances Klingenberger - Manage Github and expanded Presentation 
+
+## Project Team and Role Responsibilities (Third Segment)
+
+Archana Rohilla - Finalized Machine Learning Model, Practiced Presentation
+
+Vick Anand - Finalized Dashboard and Machine Leanring Model, Practiced Presentation
+
+Tri Luu - Finalized Dashboard and Presentation, Practiced Presentation
+
+Frances Klingenberger - Manage Github and Finalized Presenatation, Practiced Presentation
 
 # Process Overview and Technology used
 ![alt text](JPGS/ProcessFlow.png)
