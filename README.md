@@ -1,10 +1,6 @@
 
 
-Link to the sample Dashboard: https://docs.google.com/presentation/d/12_8A4pYGRNB-9pPr1TDLrR-mtxitNueUULPjYNkARqo/edit?usp=sharing
 
-Link to Tableau Dashboard: https://public.tableau.com/profile/tri5320#!/vizhome/Walmart_Sales_ML_Prediction-revised_15927881176240/SalesForcasting?publish=yes
-
-Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4oruxI0mastjCT07H96pQdgFnJR6P4/edit#slide=id.g88d4106874_0_14 
  
 
 # Project Outline
