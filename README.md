@@ -5,7 +5,9 @@
 
 Our project focuses on sales forecasting and how certain outside influences can affect store performance. We will predict sales for Walmart based on three years of data across 45 stores by using various machine learning models. We want to determine which model generates the most accurate predictions. 
 
-## Project Team and Role Responsibilities (First Segment)
+## Project Team and Role Responsibilities 
+
+**Segment 1**
 
 Archana Rohilla - Created preliminary Machine Learning Model, Imported data from RDS Database "Walmart sales" into Jupyter Notebook 
 
@@ -15,7 +17,7 @@ Tri Luu - Presentation and communication plan (readme.md)
 
 Frances Klingenberger - created github master branch and tracked communications 
 
-## Project Team and Role Responsibilities (Second Segment)
+**Segment 2**
 
 Archana Rohilla - Imported data from RDS Database "Walmart sales" into Jupyter notebook, Expanded Machine Learning Model
 
@@ -25,7 +27,7 @@ Tri Luu - Created Dashboard with Vick
 
 Frances Klingenberger - Manage Github and expanded Presentation 
 
-## Project Team and Role Responsibilities (Third Segment)
+**Segment 3**
 
 Archana Rohilla - Expanded Machine Learning Model
 
@@ -35,8 +37,7 @@ Tri Luu - Created Dashboard with Vick
 
 Frances Klingenberger - Manage Github and expanded Presentation 
 
-## Project Team and Role Responsibilities (Third Segment)
-
+**Segment 4**
 Archana Rohilla - Finalized Machine Learning Model, Practiced Presentation
 
 Vick Anand - Finalized Dashboard and Machine Leanring Model, Practiced Presentation
