@@ -65,7 +65,7 @@ Frances Klingenberger - Manage Github and Finalized Presenatation, Practiced Pre
 
 **Load:** Loaded data into Postgress from Jupyter Notebook
 
-Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_Wkly_Sales_ETL.ipynb
+Source: ETL/Walmart_Wkly_Sales_ETL.ipynb
 
 # Machine Learning Model:
 
