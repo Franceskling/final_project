@@ -79,7 +79,7 @@ To predict Walmart sales for 45 stores in aggreate utilizing features like tempe
 We use linear regression to fit the data set, scale and transform the data to predict sales data. After that, we compare the test data actual with the predicted value. 
 
 **What is the model's accuracy?**
-Currently, accuracy of the linear regression is 14%. Next week, we'll be using LSTM, Arima, XGBoost to increase the accuracy score.
+Currently, accuracy of the linear regression is 14%. 
 
 **How does this model work?**
 We will use 3 metrics to compare the effectiveness of machine learning model. The 3 metrics are: RMSE, MAE, and R-square score. 
@@ -112,6 +112,8 @@ Storyboard sample:
 ## Final Presentation
 
 Link to Presentation/Dashboard: https://public.tableau.com/shared/NBPGWZXQT?:display_count=y&:origin=viz_share_link
+
+Link to Presentation Notes: 
 
 
 
