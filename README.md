@@ -5,6 +5,10 @@ Link to Presentation/Dashboard: https://public.tableau.com/shared/NBPGWZXQT?:dis
 
 # Project Outline
 
+##Background
+
+Our project focuses on sales forecasting and how certain outside influences can affect store performance. We will predict sales for Walmart based on three years of data across 45 stores by using various machine learning models. We want to determine which model generates the most accurate predictions. 
+
 ## Project Team and Role Responsibilities (First Segment)
 
 Archana Rohilla - Created preliminary Machine Learning Model, Imported data from RDS Database "Walmart sales" into Jupyter Notebook 
