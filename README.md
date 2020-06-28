@@ -86,6 +86,8 @@ We will use 3 metrics to compare the effectiveness of machine learning model. Th
      MAE- The average of the absolute differences between the predicted values and actual vales, all differences have the same weight
      
      R-squared score- A measure of best fit that shows how much variation of a dependent variable is explained by the independent     variable 
+     
+     Naive RMSE- Same as RMSE with the assumption that predictions will mirror previous week sales
 
 
 
