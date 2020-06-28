@@ -67,7 +67,7 @@ Source: ETL/Walmart_Wkly_Sales_ETL.ipynb
 
 ## Machine Learning Model:
 
-*See full machine learning description in the machine learning pdf
+See full machine learning description in the machine_learning_Report.pdf
 
 **Model Type:**
 Supervised machine learning - Linear Regression and Random Forest 
@@ -76,10 +76,7 @@ Supervised machine learning - Linear Regression and Random Forest
 To predict Walmart sales for 45 stores in aggreate utilizing features like temperature, holiday, CPI, fuel price and unemployment data
 
 **How are we training our model:**
-We use linear regression to fit the data set, scale and transform the data to predict sales data. After that, we compare the test data actual with the predicted value. 
-
-**What is the model's accuracy?**
-Currently, accuracy of the linear regression is 14%. 
+We use linear regression and random forest regressor to fit the data set, scale and transform the data to predict sales data. After that, we compare the test data actual with the predicted value. 
 
 **How does this model work?**
 We will use 3 metrics to compare the effectiveness of machine learning model. The 3 metrics are: RMSE, MAE, and R-square score. 
