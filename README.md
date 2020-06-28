@@ -9,7 +9,7 @@ Our project focuses on sales forecasting and how certain outside influences can 
 
 **Segment 1**
 
-Archana Rohilla - Created preliminary Machine Learning Model, Imported data from RDS Database "Walmart sales" into Jupyter Notebook 
+Archana Rohilla - Created preliminary Machine Learning Models, Imported data from RDS Database "Walmart sales" into Jupyter Notebook 
 
 Vick Anand - ETL analysis, build schema utilizing ERD QuickDB, Postgress and connection to AWS RDS DB
 
@@ -19,7 +19,7 @@ Frances Klingenberger - created github master branch and tracked communications
 
 **Segment 2**
 
-Archana Rohilla - Imported data from RDS Database "Walmart sales" into Jupyter notebook, Expanded Machine Learning Model
+Archana Rohilla - Imported data from RDS Database "Walmart sales" into Jupyter notebook, Expanded Machine Learning Models using "lags"
 
 Vick Anand - Created Dashboard with Tri
 
@@ -29,7 +29,7 @@ Frances Klingenberger - Manage Github and expanded Presentation
 
 **Segment 3**
 
-Archana Rohilla - Expanded Machine Learning Model
+Archana Rohilla - Expanded Machine Learning Models using "Naive Forecasting Technique"
 
 Vick Anand - Created Dashboard with Tri and worked on Machine Learning Model with Archana
 
