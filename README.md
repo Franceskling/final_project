@@ -1,14 +1,13 @@
 
-Link to the sample Dashboard: https://docs.google.com/presentation/d/12_8A4pYGRNB-9pPr1TDLrR-mtxitNueUULPjYNkARqo/edit?usp=sharing
-
-Updated 6/15/2020: add more notes and annotations for the slides
-
-Link to the Presentation: https://docs.google.com/presentation/d/10sOgF4KqUnMWf4oruxI0mastjCT07H96pQdgFnJR6P4/edit#slide=id.g88d4106874_0_14 
- 
-
 # Project Outline
 
-## Project Team and Role Responsibilities (First Segment)
+## Background
+
+Our project focuses on sales forecasting and how certain outside influences can affect store performance. We will predict sales for Walmart based on three years of data across 45 stores by using various machine learning models. We want to determine which model generates the most accurate predictions. 
+
+## Project Team and Role Responsibilities 
+
+**Segment 1**
 
 Archana Rohilla - Created preliminary Machine Learning Model, Imported data from RDS Database "Walmart sales" into Jupyter Notebook 
 
@@ -18,7 +17,7 @@ Tri Luu - Presentation and communication plan (readme.md)
 
 Frances Klingenberger - created github master branch and tracked communications 
 
-## Project Team and Role Responsibilities (Second Segment)
+**Segment 2**
 
 Archana Rohilla - Imported data from RDS Database "Walmart sales" into Jupyter notebook, Expanded Machine Learning Model
 
@@ -28,25 +27,35 @@ Tri Luu - Created Dashboard with Vick
 
 Frances Klingenberger - Manage Github and expanded Presentation 
 
-## Communications
+**Segment 3**
 
-Slack- used for team updates, sharing resources, and scheduling zoom chats
+Archana Rohilla - Expanded Machine Learning Model
 
-Zoom- used for team meetings 2-3 times a week
+Vick Anand - Created Dashboard with Tri and worked on Machine Learning Model with Archana
 
-Class Time- Tuesdays and Thursdays, used for catching up on individual segments, planning out the responsibilites, collabortating on segments, and working with TAs for extra help
+Tri Luu - Created Dashboard with Vick 
 
-Office Hours- used when extra help is needed with TAs
+Frances Klingenberger - Manage Github and expanded Presentation 
 
-# Process Overview and Technology used
-![alt text](https://github.com/Franceskling/final_project/blob/master/ProcessFlow.png)
+**Segment 4**
+
+Archana Rohilla - Finalized Machine Learning Model, Practiced Presentation
+
+Vick Anand - Finalized Dashboard and Machine Leanring Model, Practiced Presentation
+
+Tri Luu - Finalized Dashboard and Presentation, Practiced Presentation
+
+Frances Klingenberger - Manage Github and Finalized Presenatation, Practiced Presentation
+
+## Process Overview and Technology used
+![alt text](JPGS/ProcessFlow.png)
 
 
 
 
 
 
-# ETL
+## ETL
 
 **Extract:** Extracted csv file from Kaggle.com 
 
@@ -54,9 +63,9 @@ Office Hours- used when extra help is needed with TAs
 
 **Load:** Loaded data into Postgress from Jupyter Notebook
 
-Source: https://github.com/Franceskling/final_project/blob/ETL_Analysis/Walmart_Wkly_Sales_ETL.ipynb
+Source: ETL/Walmart_Wkly_Sales_ETL.ipynb
 
-# Machine Learning Model:
+## Machine Learning Model:
 
 *See full Machine Learning code and further description in Jupyter Notebook file for the calculated metrics (RMSE, MAE, R-square score)
 
@@ -70,7 +79,7 @@ To predict Walmart sales for 45 stores in aggreate utilizing features like tempe
 We use linear regression to fit the data set, scale and transform the data to predict sales data. After that, we compare the test data actual with the predicted value. 
 
 **What is the model's accuracy?**
-Currently, accuracy of the linear regression is 14%. Next week, we'll be using LSTM, Arima, XGBoost to increase the accuracy score.
+Currently, accuracy of the linear regression is 14%. 
 
 **How does this model work?**
 We will use 3 metrics to compare the effectiveness of machine learning model. The 3 metrics are: RMSE, MAE, and R-square score. 
@@ -83,16 +92,29 @@ We will use 3 metrics to compare the effectiveness of machine learning model. Th
 
 Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
 
-# Database
+## Database
 Develop database schema utilizing ERD DB below:
 
-Sources: https://github.com/Franceskling/final_project/blob/ETL_Analysis/QuickDBD-WMT_Weekly_Sales.sql
+Sources: ETL/QuickDBD-WMT_Weekly_Sales.sql
 
-Database Connections & Steps: https://github.com/Franceskling/final_project/blob/ETL_Analysis/database/Steps%20for%20Database%20%26%20Connections.docx
+Database Connections & Steps: database/Steps for Database & Connections.docx
 
 RDS DB endpoint: walmartsales.ctixdh2hiprk.us-east-2.rds.amazonaws.com
 
-![alt text](https://github.com/Franceskling/final_project/blob/master/databsae_QBD.PNG)
+![alt text](https://github.com/Franceskling/final_project/blob/master/JPGS/databsae_QBD.PNG)
 
-# Dashboard
+## Dashboard
+
+Storyboard sample:
+
+![alt_text](https://github.com/Franceskling/final_project/blob/master/Resources/Dashboard.png)
+
+## Final Presentation
+
+Link to Presentation/Dashboard: https://public.tableau.com/shared/NBPGWZXQT?:display_count=y&:origin=viz_share_link
+
+Link to Presentation Notes: 
+
+
+
 
