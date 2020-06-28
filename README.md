@@ -98,7 +98,7 @@ Database Connections & Steps: database/Steps for Database & Connections.docx
 
 RDS DB endpoint: walmartsales.ctixdh2hiprk.us-east-2.rds.amazonaws.com
 
-![alt text](https://github.com/Franceskling/final_project/blob/master/JPGS/databsae_QBD.PNG)
+![alt text](https://github.com/Franceskling/final_project/blob/master/database/databsae_QBD.PNG)
 
 ## Dashboard
 
