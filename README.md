@@ -87,7 +87,7 @@ We will use 3 metrics to compare the effectiveness of machine learning model. Th
      
      R-squared score- A measure of best fit that shows how much variation of a dependent variable is explained by the independent     variable 
 
-Source: https://github.com/Franceskling/final_project/blob/machine_learning/machine_learning/machine_learning_Models.ipynb
+
 
 ## Database
 Develop database schema utilizing ERD DB below:
@@ -110,7 +110,7 @@ Storyboard sample:
 
 Link to Presentation/Dashboard: https://public.tableau.com/shared/NBPGWZXQT?:display_count=y&:origin=viz_share_link
 
-Link to Presentation Notes: 
+Link to Presentation Notes: https://docs.google.com/document/d/1PgImt_HTl0jHM45ZBqyobfUrsQerVCWuR3aXJnAJICE/edit?usp=sharing
 
 
 
