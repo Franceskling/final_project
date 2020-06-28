@@ -67,10 +67,10 @@ Source: ETL/Walmart_Wkly_Sales_ETL.ipynb
 
 ## Machine Learning Model:
 
-*See full Machine Learning code and further description in Jupyter Notebook file for the calculated metrics (RMSE, MAE, R-square score)
+*See full machine learning description in the machine learning pdf
 
 **Model Type:**
-Supervised machine learning - Linear Regression (Forecasting using LSTM, Arima, XGBoost)
+Supervised machine learning - Linear Regression and Random Forest 
 
 **Why we are using this model:**
 To predict Walmart sales for 45 stores in aggreate utilizing features like temperature, holiday, CPI, fuel price and unemployment data
