@@ -104,7 +104,11 @@ RDS DB endpoint: walmartsales.ctixdh2hiprk.us-east-2.rds.amazonaws.com
 
 ## Dashboard
 
-Storyboard sample:
+Liks to Dashboard: 
+https://public.tableau.com/profile/vick.anand#!/vizhome/Walmart_Sales_ML_Prediction-revised/WalmartSalesOverview
+
+https://public.tableau.com/profile/vick.anand#!/vizhome/Walmart_Sales_ML_Prediction-revised/MachineLearningResults
+
 
 ![alt_text](https://github.com/Franceskling/final_project/blob/master/Resources/Dashboard.png)
 
