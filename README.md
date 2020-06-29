@@ -67,27 +67,27 @@ Source: ETL/Walmart_Wkly_Sales_ETL.ipynb
 
 ## Machine Learning Model:
 
-See full machine learning description in the machine_learning_Report.pdf
+See full machine learning description in the Machine_learning_Report.pdf
 
 **Model Type:**
 Supervised Machine Learning : Linear Regression and Random Forest Regression 
 
-**Why we are using this model:**
+**Why we are using this Model:**
 To predict Walmart stores sales for 45 stores in aggregate utilizing features like temperature, holiday, CPI, fuel price and unemployment data.
 
-**How are we training our model:**
+**How are we training our Model:**
 We used Linear Regression and Random Forest Regressor to fit the training dataset, scale and transform the data to predict sales data. After that, we compared the test data actual with the predicted value. 
 
-**How does this model work?**
+**How does this Model work?**
 We used 3 metrics to compare the effectiveness of Machine Learning Models. The 3 metrics are: RMSE, MAE, and R2 score. 
      
-     - RMSE: The square root of the average of squared differences between the predicted values and actual values.
+- RMSE: The square root of the average of squared differences between the predicted values and actual values.
      
-     - MAE: The average of the absolute differences between the predicted values and actual vales, all differences have the same weight.
+- MAE: The average of the absolute differences between the predicted values and actual vales, all differences have the same weight.
      
-     - R2 score: A measure of best fit that shows how much variation of a dependent variable is explained by the independent variable. 
+- R2 score: A measure of best fit that shows how much variation of a dependent variable is explained by the independent variable. 
      
-     - Naive RMSE: Same as RMSE with the assumption that predictions will mirror previous week sales.
+- Naive RMSE: Same as RMSE with the assumption that predictions will mirror previous week sales.
 
 
 
