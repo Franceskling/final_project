@@ -29,7 +29,7 @@ Frances Klingenberger - Manage Github and expanded Presentation
 
 **Segment 3**
 
-Archana Rohilla - Expanded Machine Learning Models using "Naive Forecasting Technique"
+Archana Rohilla - Expanded Machine Learning Models using "Naive Forecasting Technique" with Vick
 
 Vick Anand - Created Dashboard with Tri and worked on Machine Learning Model with Archana
 
@@ -39,9 +39,9 @@ Frances Klingenberger - Manage Github and expanded Presentation
 
 **Segment 4**
 
-Archana Rohilla - Finalized Machine Learning Model, Practiced Presentation
+Archana Rohilla - Finalized Machine Learning Model with Vick, Practiced Presentation
 
-Vick Anand - Finalized Dashboard and Machine Leanring Model, Practiced Presentation
+Vick Anand - Finalized Dashboard and Machine Learning Model with Archana, Practiced Presentation
 
 Tri Luu - Finalized Dashboard and Presentation, Practiced Presentation
 
